@@ -6,6 +6,6 @@ const img = document.querySelector("#profile img")
 if(html.classList.contains("light")){
 img.setAttribute('src','./assets/light-mode.jpg')
 }else{
-    img.setAttribute('src','./assets/avatar-night_resized.jpg')
+    img.setAttribute('src','./assets/avatar-night.jpg')
 }
 }
