@@ -130,7 +130,7 @@ ul li a:hover{
     background: var(--surface-color);
     border: 1.5px solid var(--stroke-color);
 }
-#social-links, #counter, #number{
+#social-links{
     display: flex;
     justify-content: center;
     padding: 24px 0;
@@ -186,4 +186,24 @@ footer a{
     to{
         left: 0;
     }
+}
+/*#counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 24px 0;
+    font-size: 24px;
+    flex-direction: column;
+    text-align: center;
+}
+#counter img {
+    display: block;
+    margin: 0 auto;
+}*/
+
+#counter{
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
 }
