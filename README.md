@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinkTree </h1>
+<h1 align="center">LinkTree </h1>
 
 
 ## 🚀 Tecnologias
