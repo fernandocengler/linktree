@@ -130,7 +130,7 @@ ul li a:hover{
     background: var(--surface-color);
     border: 1.5px solid var(--stroke-color);
 }
-#social-links{
+#social-links, #counter, #number{
     display: flex;
     justify-content: center;
     padding: 24px 0;
